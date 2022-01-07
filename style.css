@@ -4,10 +4,10 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .mision-first-part{
-    margin-top: 100px;
-    background-image: url(./images/man-images/top-banner\ \(2\).png);
+    margin-top: 60px;
+    background-image:url(./images/man-images/three.png);
     background-repeat: no-repeat;
-    background-position:left;
+    background-position:right;
 }
 .mission-tittle{
     margin:20px 0;
@@ -26,6 +26,9 @@ body{
 }
 .yellow{
     color: yellow;
+}
+.sky-blue{
+    color: #0984e3;
 }
 .purple{
     color: #341f97;
@@ -113,7 +116,12 @@ button{
 .skill-text {
     margin: 104px -104px;
 }
-
+.community-part {
+    background-image: url(./images/man-images/3rd.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
 .community-blog {
     margin-left: 128px;
 }
@@ -130,6 +138,9 @@ button{
     border-radius: 20px;
 }
 .apply-part {
+    background-image: url(./images/man-images/circles-r2-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: right;
     margin-left: 100px;
     margin-bottom: 70px;
 }
