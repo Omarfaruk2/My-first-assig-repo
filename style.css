@@ -1,0 +1,132 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.mision-first-part{
+    margin-top: 100px;
+}
+.mission-tittle{
+    margin:20px 0;
+    border-left: 5px solid tomato;
+    padding-left: 14px;
+    
+}
+.orange{
+    color: orange;
+}
+.blue{
+    color:blue;
+}
+.tomato{
+    color: tomato;
+}
+.yellow{
+    color: yellow;
+}
+.white{
+    color: white;
+}
+.border-left{
+    border-left:10px slid tomato;
+}
+h1{
+    font-size: 46px;
+}
+button{
+    background-color: tomato;
+    border: none;
+    padding:12px 25px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.button-decoration{
+    text-decoration: none;
+}
+.flexible{
+    display: flex;
+}
+.first-width{
+    width: 50%;
+    margin-left: 8%;
+    justify-content: space-around;
+}
+.last-width{
+    width: 50%;
+    justify-content: space-around;
+}
+.first-image{
+    width: 77%;
+}
+.skill-image{
+    margin-top: 100px;
+}
+.skill-image img {
+    width: 50%;
+    margin-left: 130px;
+}
+.second-tittle{
+    text-align: center;
+    margin-top: 65px;
+}
+.conter-part{
+    margin-left: 50px;
+}
+.first-container{
+
+    background-color:rgb(0,255,255,.2);
+   
+}
+.second-container{
+    background-color: rgb(0,0,255,.2);
+}
+.third-container{
+    margin-right: 7%;
+    background-color: rgb(255,0,0,.2);
+}
+.secound-part-box{
+    width: 23%;
+    justify-content: space-around;
+    margin-left: 4%;
+    border:solid;
+    border-style: none;
+    border-radius: 25px;
+    padding: 10px 10px 7px 20px;
+
+}
+.img-comatant{
+    width: 55%;
+}
+.skill-width{
+    width: 50%;
+    justify-content: space-around;
+}
+.skill-text {
+    margin: 104px -104px;
+}
+.community-blog {
+    margin-left: 128px;
+}
+.community-img img {
+    width: 60%;
+    margin-left: 67px;
+}
+.apply-width{
+    width: 50%;
+    justify-content: space-around;
+}
+
+.apply-img img{
+    border-radius: 20px;
+}
+.apply-part {
+    margin-left: 100px;
+    margin-bottom: 70px;
+}
+.apply-requ {
+   margin: 35px 23px 0 52px;
+}
+.third-tittle{
+    margin: 100px 0 70px 0;
+    text-align: center;
+}
