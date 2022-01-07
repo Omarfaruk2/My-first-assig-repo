@@ -5,6 +5,9 @@ body{
 }
 .mision-first-part{
     margin-top: 100px;
+    background-image: url(./images/man-images/top-banner\ \(2\).png);
+    background-repeat: no-repeat;
+    background-position:left;
 }
 .mission-tittle{
     margin:20px 0;
@@ -24,8 +27,8 @@ body{
 .yellow{
     color: yellow;
 }
-.white{
-    color: white;
+.purple{
+    color: #341f97;
 }
 .border-left{
     border-left:10px slid tomato;
@@ -60,6 +63,12 @@ button{
 }
 .skill-image{
     margin-top: 100px;
+}
+.skill-part {
+    background-image: url(./images/man-images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
 }
 .skill-image img {
     width: 50%;
@@ -104,6 +113,7 @@ button{
 .skill-text {
     margin: 104px -104px;
 }
+
 .community-blog {
     margin-left: 128px;
 }
@@ -129,4 +139,11 @@ button{
 .third-tittle{
     margin: 100px 0 70px 0;
     text-align: center;
+}
+footer {
+    text-align: center;
+    background-color: rgba(0,0,0,1);
+    padding: 30px 10px;
+    color: white;
+    border-radius: 7px;
 }
